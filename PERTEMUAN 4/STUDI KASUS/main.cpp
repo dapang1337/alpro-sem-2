@@ -12,7 +12,7 @@ int main(){
 
 	Output output;
 	output.cetak();
-  output.getData();
+  	output.getData();
 
 	return 0;
 }
